@@ -1,1 +1,1 @@
-## EXERCICE SECTION REACT JS - DAY 6 "https://apollo.lereacteur.io/course/624eddf4c4a94d0018380f7c/63ad87d2e9d56300182ff948"
+# project2_clone_delivroo_reactjs
